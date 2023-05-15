@@ -1,0 +1,3 @@
+[submodule "src/third-party/snappy-c"]
+	path = src/third-party/snappy-c
+	url = git@github.com:andikleen/snappy-c.git
